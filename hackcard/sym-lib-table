@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gamecard")(type "KiCad")(uri "${KIPRJMOD}/gamecard.kicad_sym")(options "")(descr ""))
+)
